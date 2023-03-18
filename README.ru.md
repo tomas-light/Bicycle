@@ -5,7 +5,7 @@
 Продается б/у [велосипед](#bicycle) в комплекте со [шлемом](#helmet), [насосом](#pump), [замком](#lock), [сидушкой](#saddle), [мультитулом](#multi-tool) за 40 000 RSD.
 Купил жене год назад, она меньше месяца на нем откаталась, и потом велик просто стоял в гараже.
 
-### <a href="bicycle"/> Велосипед
+### <a href="bicycle"></a> Велосипед
 
 [Nakamura EMOTION 2.0](https://www.intersport.rs/nakamura-emotion-2-0-zenski-mtb-bicikl-593462) 34 999 RSD
 
@@ -21,7 +21,7 @@
 ![photo bicycle 10](photos/bycicle_10.jpg)
 ![photo bicycle 11](photos/bycicle_11.jpg)
 
-### <a href="helmet"/> Шлем
+### <a href="helmet"></a> Шлем
 
 [Uvex AIR WING CC](https://www.intersport.rs/uvex-air-wing-cc-kaciga-586097) 5 249 RSD
 
@@ -33,26 +33,26 @@
 ![photo helmet 06](photos/helmet_06.jpg)
 ![photo helmet 07](photos/helmet_07.jpg)
 
-### <a href="lock"/> Замок
+### <a href="lock"></a> Замок
 
 [Cytec SPIRALA SOFT](https://www.intersport.rs/cytec-spirala-soft-brava-za-bicikl-596393) 1 749 RSD
 
 ![photo lock 01](photos/lock_01.jpg)
 
-### <a href="pump"/> Насос
+### <a href="pump"></a> Насос
 
 [Topeak Race Rocket](https://fanatic.rs/pumpa-za-bicikl-topeak-race-rocket.html) 3 600 RSD
 
 ![photo pump 01](photos/pump_01.jpg)
 
-### <a href="saddle"/> Сидушка
+### <a href="saddle"></a> Сидушка
 
 [Cytec GEL TECH MTB](https://www.intersport.rs/cytec-gel-tech-mtb-pokrivac-za-sediste-77472) 1 609 RSD
 
 ![photo saddle 01](photos/saddle_01.jpg)
 ![photo saddle 02](photos/saddle_02.jpg)
 
-### <a href="multi-tool"/> Мультитул
+### <a href="multi-tool"></a> Мультитул
 
 [Topeak MINI 9](https://www.intersport.rs/topeak-mini-9-alat-296964) 1 869 RSD
 
