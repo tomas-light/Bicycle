@@ -4,6 +4,8 @@
 
 Сербия, Белград
 
+Контакты: https://t.me/Tomas_Light
+
 Продается б/у [велосипед](#bicycle) в комплекте со [шлемом](#helmet), [насосом](#pump), [замком](#lock), [сидушкой](#saddle), [мультитулом](#multi-tool) за 40 000 RSD.
 Купил жене год назад, она меньше месяца на нем откаталась, и потом велик просто стоял в гараже.
 
@@ -22,6 +24,7 @@
 ![photo bicycle 09](photos/bycicle_09.jpg)
 ![photo bicycle 10](photos/bycicle_10.jpg)
 ![photo bicycle 11](photos/bycicle_11.jpg)
+![photo bicycle 12](photos/bycicle_12.jpg)
 
 ### <a name="helmet"></a> Шлем
 
@@ -40,12 +43,17 @@
 [Cytec SPIRALA SOFT](https://www.intersport.rs/cytec-spirala-soft-brava-za-bicikl-596393) 1 749 RSD
 
 ![photo lock 01](photos/lock_01.jpg)
+![photo lock 02](photos/lock_02.jpg)
+![photo lock 03](photos/lock_03.jpg)
 
 ### <a name="pump"></a> Насос
 
 [Topeak Race Rocket](https://fanatic.rs/pumpa-za-bicikl-topeak-race-rocket.html) 3 600 RSD
 
 ![photo pump 01](photos/pump_01.jpg)
+![photo pump 02](photos/pump_02.jpg)
+![photo pump 03](photos/pump_03.jpg)
+![photo pump 04](photos/pump_04.jpg)
 
 ### <a name="saddle"></a> Сидушка
 
