@@ -49,6 +49,7 @@
 ### <a name="pump"></a> Насос
 
 [Topeak Race Rocket](https://fanatic.rs/pumpa-za-bicikl-topeak-race-rocket.html) 3 600 RSD
+Покупали в intersport, но они уже удалили товар с сайта
 
 ![photo pump 01](photos/pump_01.jpg)
 ![photo pump 02](photos/pump_02.jpg)
@@ -64,7 +65,8 @@
 
 ### <a name="multi-tool"></a> Мультитул
 
-[Topeak MINI 9](https://www.intersport.rs/topeak-mini-9-alat-296964) 1 869 RSD
+[Topeak MINI 9](https://www.topeak.com/global/en/product/174-MINI-9) 1 869 RSD
+Покупали в intersport, но они уже удалили товар с сайта
 
 ![photo multi-tool 01](photos/multi-tool_01.jpg)
 ![photo multi-tool 02](photos/multi-tool_02.jpg)
